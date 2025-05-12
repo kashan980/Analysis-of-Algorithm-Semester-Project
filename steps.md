@@ -8,3 +8,6 @@
 3. Sort the rotations lexicographically.
 4. Construct the BWT string by taking the last character of each rotation.
 5. Return the BWT string.
+
+
+
