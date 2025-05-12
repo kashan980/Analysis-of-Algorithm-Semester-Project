@@ -1,6 +1,7 @@
-Burrows-Wheeler Transform – Algorithm Steps
+# Burrows-Wheeler Transform – Algorithm Steps
 
-Pseudocode for BWT
+## Pseudocode for BWT
+
 
 1. Append a special end-of-string symbol '$' to input_string.
 2. Generate all cyclic rotations of the input_string.
